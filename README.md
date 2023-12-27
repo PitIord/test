@@ -1,5 +1,3 @@
-…or create a new repository on the command line
-
 echo "# first_rep" >> README.md
 git init
 git add README.md
